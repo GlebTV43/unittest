@@ -50,10 +50,6 @@ def perimeter(a, b, c):
     
     return a + b + c
 
-# ============================================
-# UNIT-ТЕСТЫ для треугольника (12 тестов)
-# ============================================
-
 import unittest
 
 class TestTriangle(unittest.TestCase):

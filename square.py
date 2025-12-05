@@ -34,10 +34,6 @@ def perimeter(a):
         raise ValueError("Сторона квадрата должна быть неотрицательной")
     return 4 * a
 
-# ============================================
-# UNIT-ТЕСТЫ для квадрата (10 тестов)
-# ============================================
-
 import unittest
 
 class TestSquare(unittest.TestCase):
