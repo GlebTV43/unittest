@@ -157,7 +157,6 @@ python run_tests.py
 
 1. Python Official Documentation: https://docs.python.org/3/library/unittest.html
 2. Методические указания к лабораторной работе №4 (прилагаемый `.docx` файл)
-3. https://ru.wikibooks.org/wiki/Python/Юниттестирование
 
 ---
 
