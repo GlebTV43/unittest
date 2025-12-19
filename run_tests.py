@@ -2,6 +2,8 @@ import unittest
 import sys
 import os
 
+# coding: utf-8
+
 def run_all_tests():
     """
     Запускает все тесты из файлов с фигурами.
